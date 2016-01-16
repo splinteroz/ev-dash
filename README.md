@@ -6,7 +6,7 @@ uLDC-32PTU display unit   http://www.4dsystems.com.au/product/uLCD_32PTU/
 Arduino Mega 2650         https://www.arduino.cc/en/Main/ArduinoBoardMega2560
 LEM Current Sense module  
 GPS Reciever              http://www.dhgate.com/product/hj-007-high-precision-ublox-neo-6m-gps-module/199096868.html
-Voltage divider (self built)
+Voltage divider           http://www.re-innovation.co.uk/web12/index.php/en/information/electronics-information/accurate-voltage-measurement
 
 
 # Uses
